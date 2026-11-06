@@ -1,0 +1,7 @@
+<Bindings>
+    <Binding name="BOOSTEDXP_NEXT" header="BOOSTEDXP" category="ADDONS">BoostedXP:NextStep()</Binding>
+    <Binding name="BOOSTEDXP_BACK" category="ADDONS">BoostedXP:PreviousStep()</Binding>
+    <Binding name="BOOSTEDXP_TOGGLE" category="ADDONS">BoostedXP:ToggleWindow()</Binding>
+    <Binding name="BOOSTEDXP_CLASS" category="ADDONS">BoostedXP:ToggleClassQuests()</Binding>
+    <Binding name="BOOSTEDXP_ARROW" category="ADDONS">BoostedXP:ToggleArrow()</Binding>
+</Bindings>

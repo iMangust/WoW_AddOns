@@ -1,0 +1,78 @@
+## Interface: 16001
+## Title: BoostedXP
+## Notes: Free step-by-step leveling guide for WoW Forever, with a waypoint arrow and quest automation.
+## Author: Ragefarm
+## Version: 1.0.7
+## X-License: MIT
+## X-Curse-Project-ID: 1728472
+## X-Wago-ID: nKWwZqKE
+## SavedVariables: BoostedXPDB
+## SavedVariablesPerCharacter: BoostedXPCharDB
+## IconTexture: Interface\AddOns\BoostedXP\Media\arrow
+
+Core.lua
+Fonts.lua
+Api.lua
+Data\Zones.lua
+Data\Dungeons.lua
+Data\QuestTitles.lua
+Data\Trainers.lua
+Data\FlightMasters.lua
+Guide.lua
+Automation.lua
+Log.lua
+Export.lua
+Announce.lua
+Arrow.lua
+Flight.lua
+UI.lua
+ClassUI.lua
+Commands.lua
+Options.lua
+
+Guides\Horde\01_Horde_1-10_Durotar.lua
+Guides\Horde\01_Tauren_1-10_Mulgore.lua
+Guides\Horde\01_Undead_1-10_Tirisfal.lua
+Guides\Horde\01_Skyborne_1-12_ZephrasIsle.lua
+Guides\Horde\02_Horde_10-15.lua
+Guides\Horde\03_Horde_15-20.lua
+Guides\Horde\04_Horde_20-25.lua
+Guides\Horde\05_Horde_25-30.lua
+Guides\Horde\06_Horde_30-35.lua
+Guides\Horde\07_Horde_35-40.lua
+Guides\Horde\08_Horde_40-45.lua
+Guides\Horde\09_Horde_45-50.lua
+Guides\Horde\10_Horde_50-55.lua
+Guides\Horde\11_Horde_55-60.lua
+Guides\Alliance\01_Human_1-10_Elwynn.lua
+Guides\Alliance\01_Dwarf_1-10_DunMorogh.lua
+Guides\Alliance\01_NightElf_1-10_Teldrassil.lua
+Guides\Alliance\02_Alliance_10-15.lua
+Guides\Alliance\03_Alliance_15-20.lua
+Guides\Alliance\04_Alliance_20-25.lua
+Guides\Alliance\05_Alliance_25-30.lua
+Guides\Alliance\06_Alliance_30-35.lua
+Guides\Alliance\07_Alliance_35-40.lua
+Guides\Alliance\08_Alliance_40-45.lua
+Guides\Alliance\09_Alliance_45-50.lua
+Guides\Alliance\10_Alliance_50-55.lua
+Guides\Alliance\11_Alliance_55-60.lua
+Guides\Alliance\01_Skyborne_1-12_ZephrasIsle.lua
+Guides\Horde\Class_Shaman.lua
+Guides\Horde\Class_Warrior.lua
+Guides\Horde\Class_Hunter.lua
+Guides\Horde\Class_Rogue.lua
+Guides\Horde\Class_Priest.lua
+Guides\Horde\Class_Mage.lua
+Guides\Horde\Class_Warlock.lua
+Guides\Horde\Class_Druid.lua
+Guides\Alliance\Class_Warrior.lua
+Guides\Alliance\Class_Paladin.lua
+Guides\Alliance\Class_Hunter.lua
+Guides\Alliance\Class_Rogue.lua
+Guides\Alliance\Class_Priest.lua
+Guides\Alliance\Class_Mage.lua
+Guides\Alliance\Class_Warlock.lua
+Guides\Alliance\Class_Druid.lua
+Guides\Horde\Class_Paladin.lua
+Guides\Alliance\Class_Shaman.lua
